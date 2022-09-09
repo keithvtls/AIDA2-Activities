@@ -1,1 +1,1 @@
-# AIDA2-Activities
+# AIDA2-CpE-AIML
